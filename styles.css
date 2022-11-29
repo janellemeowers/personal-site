@@ -28,7 +28,8 @@ h2 {
   font-size: 1.5rem;
 padding-bottom: 10px;
   color: #66BFBF;
- font-weight: bold;
+ font-weight: normal;
+ padding-top: 10px;
 }
 
 h3 {
@@ -36,6 +37,7 @@ h3 {
   color: #11999E;
   margin-top: 20px;
   font-family: "Arial";
+
 
 }
 
@@ -114,6 +116,7 @@ a:hover {
   float: right;
 }
 
+/* takes up only 50% of row */
 .skill-row {
   width: 50%;
   margin: 100px auto 100px auto;
