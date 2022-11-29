@@ -16,6 +16,7 @@ h1{
   line-height: 4px;
 }
 
+/** line height is space between lines */
 p{
 font-size: 1.1rem;
 line-height: 2;
@@ -49,7 +50,7 @@ h4 {
 }
 
 hr {
-    border: dotted #40514E 6px;
+    border: dotted #EAF6F6 6px;
     border-bottom: none;
     width: 4%;
     margin: 100px auto;
